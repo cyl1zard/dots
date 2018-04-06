@@ -1,0 +1,14 @@
+lyrics_directory = ~/.ncmpcpp/lyrics
+mpd_music_dir = /mnt/storage/music/
+song_status_format = {{%a{ "%b"{ (%y)}} - }{%t}}|{%f}{ >> %g}
+song_columns_list_format = (20)[]{a} (6f)[green]{NE} (50)[white]{t|f:Title} (20)[cyan]{b} (7f)[magenta]{l}
+playlist_show_remaining_time = yes
+playlist_separate_albums = yes
+incremental_seeking = yes
+seek_time = 5
+volume_change_step = 4
+autocenter_mode = yes
+user_interface = classic
+display_bitrate = yes
+external_editor = vim
+use_console_editor = yes

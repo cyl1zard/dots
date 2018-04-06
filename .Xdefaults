@@ -1,0 +1,68 @@
+!darkgray
+*background:		#222222
+
+!silver
+*foreground:		#C0C0C0
+
+URxvt.transparent:   true
+URxvt.tintColor:     white
+URxvt.shading:       20
+
+!black
+*color0:		#251f1f
+*color8:		#5e5e5e
+!red
+*color1:		#eb4509
+*color9:		#eb4509
+!green
+*color2:		#94e76b
+*color10: 		#95e76b
+!yellow
+*color3:		#ffac18
+*color11: 		#ffac18
+!blue
+*color4:		#46aede
+*color12:		#46aede
+!magenta
+*color5:		#e32c57
+*color13:		#e32c57
+!cyan
+*color6:		#d6dbac
+*color14:		#d6dbac
+!white
+*color7:		#efefef
+*color15:		#efefef
+
+!save 5000 lines
+URxvt*saveLines:	5000	
+
+!left button
+URxvt.matcher.button:   1	
+
+!default
+URxvt.urlLauncher:	
+!underline links
+URxvt.underlineURLs:	true
+!	
+URxvt.keysym.M-u:	perl:url-select:select_next
+
+!disabled button 'new tab'
+URxvt.tabbed.new-button:no
+!?
+URxvt.tabbed.tabbar-fg: 15
+!?
+URxvt.tabbed.tabbar-bg: 8
+!?
+URxvt.tabbed.tab-fg:    8
+!?
+URxvt.tabbed.tab-bg:    14
+
+!Rxvt.font: -misc-fixed-medium-r-normal--15-140-75-75-c-90-iso8859-1
+!URxvt.font: xft:droidsansmono:size=11
+!URxvt.boldFont: xft:droidsansbold:size=11
+! Rxvt.font: -misc-fixed-medium-r-normal--15-140-75-75-c-90-iso8859-1
+!URxvt.boldFont: -misc-fixed-bold-r-normal--15-140-75-75-c-90-iso8859-1
+URxvt.font: xft:xos4 Terminus:pixelsize=14
+
+!disable scrollbar
+URxvt*scrollBar:       	false	

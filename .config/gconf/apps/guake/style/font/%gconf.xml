@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="style" mtime="1509311597" type="string">
+		<stringvalue>xos4 Terminus 12</stringvalue>
+	</entry>
+	<entry name="palette_name" mtime="1486651977" type="string">
+		<stringvalue>Custom</stringvalue>
+	</entry>
+	<entry name="palette" mtime="1486651977" type="string">
+		<stringvalue>#050504040404:#bcbc00001313:#863cb05f71fa:#ee239b855c73:#000000000000:#666659599292:#6f6fa4a49797:#f8f8dbdbc0c0:#4e4e7b7bbfbf:#fcfc5e5e5959:#a757d7ce9019:#efefc1c11a1a:#18189696c6c6:#9a9a59595252:#c8c8f9f9f3f3:#f5f5f4f4fbfb:#f8f8dbdbc0c0:#1a2918673b8f</stringvalue>
+	</entry>
+	<entry name="allow_bold" mtime="1516559652" type="bool" value="true"/>
+</gconf>
