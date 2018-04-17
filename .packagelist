@@ -114,6 +114,7 @@ man-pages
 mdadm
 metasploit
 minidlna
+molecule
 mpc
 mpd
 mpd-notification
@@ -205,6 +206,7 @@ unified-remote-server
 unrar
 usbutils
 util-linux
+vagrant
 vi
 viber
 viewnior
